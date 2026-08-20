@@ -12,10 +12,6 @@ python3 -m http.server 8000
 
 Then visit `http://localhost:8000`.
 
-## Before publishing
-
-Replace the placeholder links in the `#contact` section of `index.html` with Ariel's email, LinkedIn, résumé, and GitHub URLs.
-
 ## Deployment
 
 The site has no build step and can be hosted directly with GitHub Pages.

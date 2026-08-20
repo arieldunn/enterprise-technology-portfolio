@@ -30,9 +30,3 @@ const observer = new IntersectionObserver(
 );
 
 document.querySelectorAll('.reveal').forEach((element) => observer.observe(element));
-
-document.querySelectorAll('[data-placeholder="true"]').forEach((link) => {
-  link.addEventListener('click', (event) => {
-    if (link.getAttribute('href') === '#' || link.href.includes('hello@example.com')) event.preventDefault();
-  });
-});
