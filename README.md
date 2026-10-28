@@ -1,6 +1,6 @@
 # Ariel Dunn — Enterprise Portfolio
 
-A fast, responsive, single-page portfolio for product strategy, enterprise technology, systems integration, and AI work.
+A fast, responsive, single-page portfolio for enterprise strategic account management, product strategy, enterprise technology, systems integration, and AI work.
 
 ## Run locally
 
